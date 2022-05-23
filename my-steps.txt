@@ -1,0 +1,17 @@
+### Step 2A:
+/c/Users/josh1
+
+### Step 2B:
+$ cd /c/Users/josh1/Desktop/
+
+###Step 2C:
+$ cd /c/Users/josh1/Desktop/unit1-git-practice/
+
+###Step 2D:
+/c/Users/josh1/Desktop/unit1-git-practice
+
+###Step 2E:
+
+
+
+
