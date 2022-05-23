@@ -114,7 +114,11 @@ $ git config --global user.email "kennalebo@hotmail.com"
 $ git commit -m "first commit"
 $ git branch -M main
 $ git push -u origin main
-ls
+
+$ touch menu.txt
+$ git add .
+$ git commit -m 'starting a menu'
+$ git push
 
 
 
